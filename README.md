@@ -2,7 +2,7 @@
 
 [Acesse nosso site aqui](https://twohgpetshop.000webhostapp.com/)
 
-### MEMBROS 
+### Membros 
 
 #### Um projeto desenvolvido por:
 [Giovanna](https://github.com/GiPaiva) |
