@@ -4,10 +4,11 @@
 
 ### MEMBROS 
 
-#### Guilherme : 16 anos, nascido em São Paulo, Brasil
-#### Henrique : 19 anos, nascido em São Paulo, Brasil
-#### Giovanna : 17 anos, nascida em São Paulo, Brasil
-#### Heitor : 18 anos, nascido em São Paulo, Brasil
+#### Um projeto desenvolvido por:
+[Giovanna](https://github.com/GiPaiva) |
+[Guilherme](https://github.com/GuiLeoni) | 
+[Henrique](https://github.com/Henrique-Botelho) |
+[Heitor](https://github.com/heitorsclaudino)
 
 ### Introdução
 
