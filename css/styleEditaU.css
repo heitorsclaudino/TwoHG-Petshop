@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+.caixa{
+    min-height: 84.8vh;
+}
+.menu {
+    background: rgb(218,218,218);
+    background-image: linear-gradient( #515ff6, #dfdfdf);
+    border-right: 1px solid #bcbcbc;
+    border-top: 1px solid #bcbcbc;
+}
+.info_prof{
+    line-height: 40px;
+    color: #fff;
+}
+.info_prof h2{
+    margin-top: 30px;
+    font-size: 16px;
+}
+.cliente{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(255, 234, 0);
+}
+.pets{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: rgb(255, 234, 0);
+}
+.nomeAnimal{
+    font-size: 20px;
+    font-weight: 600;
+}
+.cont{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.conteudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    border: 2px solid rgb(219, 219, 219);
+    box-shadow: 2px 4px rgb(115, 115, 115);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.Titulo{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 40px;
+    margin-bottom: 45px;
+}
+.botao{
+    margin: 5px;
+}
+.label{
+    font-weight: 600;
+}

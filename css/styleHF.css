@@ -1,0 +1,74 @@
+* { margin: 0; padding: 0; }
+
+
+/* Cabeçalho da Página */
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    grid-template-columns: 50vw 50vw;
+    grid-area: head;
+    background-image: linear-gradient(#8f75da, #515ff6);
+    text-align: center;
+    height: 10vh;
+}
+
+.caixahome {
+    margin: 30px;
+}
+
+#texthome {
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+#logohome {
+    width: 40px;
+}
+
+.caixalinks {
+    margin: 30px;
+}
+
+.linkshome {
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    margin: 10px;
+    color: white;
+}
+.linkshomeside {
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+    margin: 10px;
+    color: white;
+}
+
+.linkshomeside:hover {
+    border-bottom: 4px solid #fff;
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Fim do Cabeçalho da Página */
+/* Rodapé da página */
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #797979;
+    grid-area: foot;
+    background-image: linear-gradient(to bottom, #eaeaea, #dfdfdf);
+    text-align: center;
+    height: 50px;
+    border-top: 1px solid #bcbcbc;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#logorodape {
+    width: 30px;
+    margin: 10px;
+    opacity: 30%;
+}
+/* Fim do Rodapé */

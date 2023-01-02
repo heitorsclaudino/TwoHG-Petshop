@@ -1,0 +1,168 @@
+/* Pagina */
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body{
+        background-color: #e3eaef;
+    }
+
+    .corpo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* Box Cadastro */
+    .containerCadastro {
+        display: block;
+        margin-top: 5vh;
+        margin-bottom: 18vh;
+        border: 1px solid #fff;
+        border-radius: 10px;
+        width: fit-content;
+        height: auto;
+        padding: 20px;
+        background-image: linear-gradient(#515ff6 ,#8f75da);
+        box-shadow: 5px 10px rgb(115, 115, 115);
+    }
+    .boxes{
+        display: flex;
+        justify-content: center;
+        padding-right: 10px;
+    } 
+    @media only screen and (max-width: 857px){
+        .containerCadastro
+        {
+            display: block;
+            margin-top: 10vh;
+            margin-bottom: 10vh;
+            border: 1px solid #fff;
+            border-radius: 10px;
+            width: fit-content;
+            height: auto;
+            padding: 0;
+            background-image: linear-gradient(#515ff6 ,#8f75da);
+            box-shadow: 5px 10px rgb(115, 115, 115);
+        }
+        .boxes{
+            display: block;
+            justify-content: center;
+        } 
+    }
+
+
+
+/* Conteudo - Box Cadastro */
+    /* Titulo */
+        .titulo{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            margin: 5px auto;
+            margin-bottom: 25px;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 64px ;
+        }
+    
+    /* Formulário */
+        .form {
+            display: flex;
+            flex-direction: column;
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+
+
+        .form label {
+            margin-top: 10px;
+            margin-left: 25px;
+            padding: 0;
+            text-align: center;
+            padding-bottom: 15px;
+            color: #fff;
+        }
+        /* Inputs e Labels */
+            .cad-box{
+                margin: 0 0 28px;
+                padding: 0;
+                font-weight: 500;
+                padding-bottom: 15px;
+                font-family: 'Roboto Mono', monospace;
+            }
+            /* Input */
+                .user-box {
+                    width: 300px;
+                    height: 3vh;
+                    font-size: 15px;
+                    color: #fff;
+                    border-radius: 10px;
+                    background-color: transparent;
+                    border: none;
+                    border-bottom: 4px solid #fff;
+                    font-family: 'Roboto Mono', monospace;
+                    margin-left: 25px;
+                }
+
+
+        /* Botões */
+        .barra{
+            color:#fff ;
+            visibility: hidden;
+        }
+        @media only screen and (max-width: 857px){
+            .barra{
+                color:#fff ;
+                visibility:visible;
+            }
+        }
+
+        .botoes{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+            /* Cadastrar */
+                .btncad{
+                    border-radius: 7px;
+                    border: none;
+                    background-color: transparent;
+                    color: #fff;
+                    width: fit-content;
+                    height: 3vh;
+                    font-size: 18px;
+                    margin: 10px;
+                    padding: 5px 3px 3px 3px;
+                    margin-right: 20px;
+                }
+                .btncad:hover{
+                    background-color: #a377d5;
+                    border: #a377d5;
+                    cursor: pointer;
+                    box-shadow: 2px 4px rgb(115, 115, 115);
+                }
+
+            /* Direcionamento - Login */
+                .alogin{
+                    border-radius: 7px;
+                    border: none;
+                    background-color: transparent;
+                    color: #fff;
+                    width: fit-content;
+                    height: fit-content;
+                    font-size: 20px;
+                    margin: 10px;
+                    margin-right: 20px;
+                    padding: 5px 3px 0px 3px;
+                    text-decoration: none;
+                }
+                .alogin:hover{
+                    background-color: #a377d5;
+                    border: #a377d5;
+                    cursor: pointer;
+                    box-shadow: 2px 4px rgb(115, 115, 115);
+                }

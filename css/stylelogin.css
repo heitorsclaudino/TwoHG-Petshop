@@ -1,0 +1,154 @@
+/* Conteudo */
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-color: #e3eaef;
+}
+
+.corpo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 76vh;
+}
+
+/* Box Login */
+    .conteudo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: linear-gradient(#515ff6 ,#8f75da);
+        border-radius: 15px;
+        width: fit-content;
+        height: fit-content;
+        box-sizing: border-box;
+        box-shadow: 5px 10px rgb(115, 115, 115);
+    }
+    
+    @media only screen and (max-width: 857px){
+        .conteudo{
+            display: block;
+            justify-content: center;
+            align-items: center;
+            background-image: linear-gradient(#515ff6 ,#8f75da);
+            border-radius: 15px;
+            width: fit-content;
+            height: fit-content;
+            box-sizing: border-box;
+            box-shadow: 5px 10px rgb(115, 115, 115);
+        }
+    }
+
+
+/* Titulo */
+    .login{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        font-size: 64px;
+        color: #ffffff;
+        padding-top: 40px;
+        font-family: 'Roboto Mono', monospace;
+    }
+   
+    
+/* Formulario */
+    .forms{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        padding-top: 40px;
+    }
+    .formulario{
+        padding-right: 30px;
+    }
+
+
+
+/* Labels e Inputs */
+    .user-box {
+        position: relative;
+    }
+
+    .user-box input {
+        width: 100%;
+        padding: 10px 0;
+        font-size: 16px;
+        color: rgb(255, 255, 255);
+        letter-spacing: 3px;
+        margin-bottom: 30px;
+        border: none;
+        border-bottom: 1px solid #fff;
+        outline: none;
+        background: transparent;
+    }
+
+    .input::placeholder{
+        font-size: 20px;
+        color: rgba(255, 255, 255, 0.367);
+        font-family: 'Roboto Mono', monospace;
+        font-weight: 100;
+    }
+
+
+
+/* Botões */
+.botoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+    /* Botão Logar */
+        .btnlogin{
+            border-radius: 7px;
+            border: none;
+            background-color: transparent;
+            color: #fff;
+            width: fit-content;
+            height: 3vh;
+            font-size: 18px;
+            margin: 10px;
+        }
+        .loginbtn{
+            font-family: 'Roboto Mono', monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 3px 15px 10px 15px;
+        }
+        .btnlogin:hover{
+            background-color: #a377d5;
+            border: #a377d5;
+            cursor: pointer;
+            box-shadow: 2px 4px rgb(115, 115, 115);
+        }
+
+
+    /* Diecionamento - Cadastro */
+    .acad{
+        border-radius: 7px;
+        border: none;
+        background-color: transparent;
+        color: #fff;
+        width: fit-content;
+        height: fit-content;
+        font-size: 20px;
+        margin: 10px;
+        margin-right: 20px;
+        padding: 5px 3px 0px 3px;
+        text-decoration: none;
+
+    }
+    .acad:hover{
+        background-color: #a377d5;
+        border: #a377d5;
+        cursor: pointer;
+        box-shadow: 2px 4px rgb(115, 115, 115);
+    }

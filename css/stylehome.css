@@ -1,0 +1,172 @@
+.container-fluid {
+    background-color: #e3eaef;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 800px;
+    
+}
+/* Corpo da página */
+.corpo {
+    width: 100%;
+    background-color: #e3eaef;
+    margin: 0 auto;
+}
+.cabecalho{
+    min-width: 800px;
+    width: 100vw;
+}
+
+.caixaslider {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin: 40px auto 10px auto;
+    background-color: #fff;
+    width: 50vw;
+    min-width: 800px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    margin: 30px;
+    color: #515ff6;
+}
+
+h1 p {
+    display: inline;
+    color: #8f75da;
+    font-size: 40px;
+}
+
+.caixaservicos {
+    margin: 10px auto 10px auto;
+    background-color: #fff;
+    width: 50vw;
+    min-width: 800px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    margin: 30px;
+    font-family: 'Roboto Mono', monospace;
+    color: #515ff6;
+    
+}
+
+
+.servicos{
+    width: 100%;
+    box-sizing: border-box;
+    height: 85%;
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    text-align: center;
+    color: #515ff6;
+    font-family: 'Roboto Mono', monospace;
+    padding: 10px;
+    color: #fff;
+}
+
+.servico {
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 80%;
+    font-family: 'Roboto Mono', monospace;
+    text-align: left;
+    width: 25%;
+    padding: 10px;
+    color: rgb(134, 195, 252);
+    background-image: linear-gradient(#8f75da, #515ff6);
+}
+
+.servico:hover{
+    cursor: pointer;
+    border: 2px solid #515ff6;
+    box-shadow: 0px 3px 3px #797979;
+}
+
+.servico p {
+    padding: 10px;
+    line-height: 30px;
+    box-sizing: border-box;
+}
+
+.servicos .servico img {
+    width: 100%;
+    max-width: 90%;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.caixasobre {
+    margin: 10px auto 10px auto;
+    background-color: #fff;
+    width: 50vw;
+    min-width: 800px;
+    height: 950px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.caixateam {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.membro {
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: #515ff6;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.fotonome {
+    width: 30%;
+}
+
+h4 {
+    color: rgb(134, 195, 252);
+    text-align: center;
+    width: 50%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.membro img {
+    width: 50%;
+    border-radius: 10px;
+}
+
+.caixatextosobre {
+    display: flex;
+    justify-content: center;
+}
+
+.membro p {
+    font-family: 'Roboto Mono', monospace;
+    color: #fff;
+    height: 20px;
+    justify-items: center;
+    text-align: justify;
+}
+
+/* Fim do corpo da página */
+.rodape {
+    min-width: 800px;
+    width: 100%;
+}
