@@ -1,6 +1,6 @@
 # TwoHG Petshop :stethoscope: :hearts:
 
-[Acesse nosso site aqui](https://twohgpetshop.000webhostapp.com/)
+[Acesse nosso site aqui](http://twohgpetshop.000.pe/index.php)
 
 ### Membros 
 
