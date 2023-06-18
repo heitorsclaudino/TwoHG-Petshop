@@ -36,7 +36,7 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 ## O que é o TwoHg Petshop? :dog: :syringe:
 
-#### **O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
+##### **O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
 
 **Nosso projeto possui:**  
 
