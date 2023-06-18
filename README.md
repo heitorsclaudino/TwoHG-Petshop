@@ -12,7 +12,21 @@
 
 ### Introdução
 
-Fomos desafiados a montar um projeto que incluísse o que nos foi ensinado ao decorrer do curso (Html5, Css3, Php, Banco de Dados, Lógica de Programação, Prototipação...).Começamos a ideliazar o projeto com o tema que nos foi dado ( um PetShop ), após a ideialização em grupo fomos para a divisão de tarefas e prototipação do projeto com a base que já tínhamos. A prototipação foi uma parte fácil mas trabalhosa pois teríamos de ter muita atenção e foco, para tentar extrair tudo da nossa ideia base e dar a melhor experiência pro cliente, após concluir as páginas na prototipação fomos desenhar o banco de dados e como ele ficaria divido e separado poara cada área do site, começamos a fazer a programação em etapas. 
+Fomos desafiados a montar um projeto que incluísse o que nos foi ensinado ao decorrer do curso (Html5, Css3, Php, Banco de Dados, Lógica de Programação, Prototipação...).
+
+O projeto foi desenvolvido utilizando:
+
+HTML - HyperText Markup Language
+CSS - Cascading Style Sheets
+PHP - para a integração com o banco de dados e dinâmica das páginas
+Javascript - para realizar algumas validações e auxiliar com elementos dinâmicos das páginas
+
+MySQL - foi o banco de dados escolhido
+
+Estrutura do projeto:
+
+Temos as pastas css, html, js e php para agrupar cada linguagem em sua devida pasta.
+*Nota* - A pasta HTMl tem seus arquivos em PHP, pois há recursos necessários da linguagem de programação em todas as páginas, mas o código principal se encontra em HTML. 
 
 ### Primeira Etapa
 
