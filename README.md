@@ -46,6 +46,8 @@ Nosso projeto possui:
 
 - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (funcionários, clientes, pets e consultas)
 
+
+
 #### As entidades e suas funcionalidades
 
 ***Os clientes*** podem são as pessoas que tem livre acesso a home do nosso site. Ao se cadastrarem, geram um login próprio que garantirá a segurança e autenticidade dos seus dados, agora salvos em banco de dados remoto. Com o login efetuado, esses usuários poderão acessar outras partes da aplicação como o Perfil, onde seus dados e pets ficam à mostra e estão passíveis de edição. Também podem agendar consultas com os profissionais em datas/horários disponíveis.
