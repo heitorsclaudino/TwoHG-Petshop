@@ -60,4 +60,4 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 :rabbit2: ***Os administradores*** ocupam o maior nível da aplicação, possuem acesso a todos os dados de todas as entidades podendo criar, atualizar, ler e excluir qualquer cliente, pet ou agendamento. São os únicos responsáveis por cadastro de novos administradores. :carrot:
 
-##### **Agradecemos pelo interesse no nosso projeto, obrigado você que chegou até aqui!** :frog:
+#### **Agradecemos pelo interesse no nosso projeto, obrigado você que chegou até aqui!** :frog: :snail:
