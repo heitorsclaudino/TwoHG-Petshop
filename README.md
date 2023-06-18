@@ -44,7 +44,7 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 ##### - Sistema de login para proteção e autenticidade dos usuários :coconut:
 
-###### - Páginas inteiramente feitas e estilizadas do zero :avocado:
+##### - Páginas inteiramente feitas e estilizadas do zero :avocado:
 
 ##### - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (funcionários, clientes, pets e consultas) :orange:
 
@@ -60,4 +60,4 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 ##### :rabbit2: ***Os administradores*** ocupam o maior nível da aplicação, possuem acesso a todos os dados de todas as entidades podendo criar, atualizar, ler e excluir qualquer cliente, pet ou agendamento. São os únicos responsáveis por cadastro de novos administradores. 
 
-### Agradecemos pelo interesse no nosso projeto, obrigado você que chegou até aqui! :fish: :snail:
+#### Agradecemos pelo interesse no nosso projeto, obrigado você que chegou até aqui! :fish: :snail:
