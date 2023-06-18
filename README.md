@@ -13,18 +13,21 @@
 [Henrique](https://github.com/Henrique-Botelho) |
 [Heitor](https://github.com/heitorsclaudino)
 
-### Introdução
+## Introdução
 
-O projeto foi desenvolvido utilizando:
+### **O projeto foi desenvolvido utilizando:**
 
-HTML - HyperText Markup Language
-CSS - Cascading Style Sheets
-PHP - para a integração com o banco de dados e dinâmica das páginas
-Javascript - para realizar algumas validações e auxiliar com elementos dinâmicos das páginas
+***HTML*** - HyperText Markup Language
 
-MySQL - foi o banco de dados escolhido
+***CSS*** - Cascading Style Sheets
 
-Estrutura do projeto:
+***PHP*** - para a integração com o banco de dados e dinâmica das páginas
+
+***Javascript*** - para realizar algumas validações e auxiliar com elementos dinâmicos das páginas
+
+***MySQL*** - foi o banco de dados escolhido
+
+#### Estrutura do projeto:
 
 Temos as pastas css, html, js e php para agrupar cada linguagem em sua devida pasta.
 
@@ -34,7 +37,7 @@ Temos as pastas css, html, js e php para agrupar cada linguagem em sua devida pa
 
 ### O que é o TwoHg Petshop?
 
-O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL. 
+**O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
 
 Nosso projeto possui:
 
