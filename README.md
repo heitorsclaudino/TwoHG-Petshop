@@ -37,7 +37,7 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 #### Caso não, talvez seja interessante você dar uma olhada nesse [link](https://coodesh.com/blog/dicionario/o-que-e-crud/) antes de prosseguir, é um termo técnico e bem fácil de entender, mas infelizmente não temos como explicar nesse read.me. 
 
-### O que é o TwoHg Petshop?
+## O que é o TwoHg Petshop?
 
 #### **O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
 
