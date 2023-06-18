@@ -26,8 +26,12 @@ MySQL - foi o banco de dados escolhido
 Estrutura do projeto:
 
 Temos as pastas css, html, js e php para agrupar cada linguagem em sua devida pasta.
+<<<<<<< Updated upstream
 
 **Nota** - A pasta HTMl tem seus arquivos em PHP, pois há recursos necessários da linguagem de programação em todas as páginas, mas o código principal se encontra em HTML. 
+=======
+*Nota* - A pasta HTML tem seus arquivos em PHP, pois há recursos necessários da linguagem de programação em todas as páginas, mas o código principal se encontra em HTML. 
+>>>>>>> Stashed changes
 
 ### Primeira Etapa
 
