@@ -52,12 +52,12 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 #### **As entidades e suas funcionalidades**
 
-##### :monkey: ****Os clientes**** podem são as pessoas que tem livre acesso a home do nosso site. Ao se cadastrarem, geram um login próprio que garantirá a segurança e autenticidade dos seus dados, agora salvos em banco de dados remoto. Com o login efetuado, esses usuários poderão acessar outras partes da aplicação como o Perfil, onde seus dados e pets ficam à mostra e estão passíveis de edição. Também podem agendar consultas com os profissionais em datas/horários disponíveis.
+##### :monkey: ***Os clientes*** podem são as pessoas que tem livre acesso a home do nosso site. Ao se cadastrarem, geram um login próprio que garantirá a segurança e autenticidade dos seus dados, agora salvos em banco de dados remoto. Com o login efetuado, esses usuários poderão acessar outras partes da aplicação como o Perfil, onde seus dados e pets ficam à mostra e estão passíveis de edição. Também podem agendar consultas com os profissionais em datas/horários disponíveis.
 
-##### :chicken: ****Os pets**** também possuem cadastro, porém não possuem conta ou login. Estão sempre vinculados a um dono, previamente cadastrado. Possuem dados como: nome, idade, raça, porte, dono a quem está vinculado e observações.
+##### :chicken: ***Os pets*** também possuem cadastro, porém não possuem conta ou login. Estão sempre vinculados a um dono, previamente cadastrado. Possuem dados como: nome, idade, raça, porte, dono a quem está vinculado e observações.
 
-##### :rat: ****Os agendamentos**** são as consultas marcadas tanto pelos clientes, quanto pelos administradores do site. É a parte do sistema responsável por marcar consultas somente em datas e horários disponíveis no calendário da clínica. A entidade possui dados como: dia, hora, veterinário responsável, pet e dono do pet.
+##### :rat: ***Os agendamentos*** são as consultas marcadas tanto pelos clientes, quanto pelos administradores do site. É a parte do sistema responsável por marcar consultas somente em datas e horários disponíveis no calendário da clínica. A entidade possui dados como: dia, hora, veterinário responsável, pet e dono do pet.
 
-##### :rabbit2: ****Os administradores**** ocupam o maior nível da aplicação, possuem acesso a todos os dados de todas as entidades podendo criar, atualizar, ler e excluir qualquer cliente, pet ou agendamento. São os únicos responsáveis por cadastro de novos administradores. 
+##### :rabbit2: ***Os administradores*** ocupam o maior nível da aplicação, possuem acesso a todos os dados de todas as entidades podendo criar, atualizar, ler e excluir qualquer cliente, pet ou agendamento. São os únicos responsáveis por cadastro de novos administradores. 
 
 #### Agradecemos pelo interesse no nosso projeto, obrigado você que chegou até aqui! :fish: :snail:
