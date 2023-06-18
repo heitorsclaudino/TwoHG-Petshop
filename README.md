@@ -50,7 +50,7 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 ##### - Páginas inteiramente feitas e estilizadas do zero :bulb:
 
-##### - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (funcionários, clientes, pets e consultas) :lock: :hammer_and_wrench:
+##### - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (clientes, pets e consultas) :lock: :hammer_and_wrench:
 
 
 
