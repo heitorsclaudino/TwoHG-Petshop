@@ -33,13 +33,15 @@ Temos as pastas css, html, js e php para agrupar cada linguagem em sua devida pa
 
 **Nota** - A pasta HTMl tem seus arquivos em PHP, pois há recursos necessários da linguagem de programação em todas as páginas, mas o código principal se encontra em HTML. 
 
-**Você sabe o que é um CRUD?** Caso não, talvez seja interessante você dar uma olhada nesse [link](https://coodesh.com/blog/dicionario/o-que-e-crud/) antes de prosseguir, é um termo técnico e bem fácil de entender, mas infelizmente não temos como explicar nesse read.me. 
+### **Você sabe o que é um CRUD?** 
+
+#### Caso não, talvez seja interessante você dar uma olhada nesse [link](https://coodesh.com/blog/dicionario/o-que-e-crud/) antes de prosseguir, é um termo técnico e bem fácil de entender, mas infelizmente não temos como explicar nesse read.me. 
 
 ### O que é o TwoHg Petshop?
 
-**O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
+#### **O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
 
-Nosso projeto possui:
+**Nosso projeto possui:**
 
 - Cruds para os clientes e administradores do petshop, pets e agendamentos de consultas.
 
