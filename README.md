@@ -38,6 +38,10 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 ##### **O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
 
+
+
+
+
 **Nosso projeto possui:**  
 
 ##### - Cruds para os clientes e administradores do petshop, pets e agendamentos de consultas. :hammer_and_wrench:
@@ -47,6 +51,8 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 ##### - Páginas inteiramente feitas e estilizadas do zero :bulb:
 
 ##### - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (funcionários, clientes, pets e consultas) :lock: :hammer_and_wrench:
+
+
 
 
 
