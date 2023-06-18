@@ -30,11 +30,11 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 **Nota** - A pasta HTMl tem seus arquivos em PHP, pois há recursos necessários da linguagem de programação em todas as páginas, mas o código principal se encontra em HTML. 
 
-### **Você sabe o que é um CRUD?** 
+### **Você sabe o que é um CRUD?** :dog:
 
 ##### Caso não, talvez seja interessante você dar uma olhada nesse [link](https://coodesh.com/blog/dicionario/o-que-e-crud/) antes de prosseguir, é um termo técnico e bem fácil de entender, mas infelizmente não temos como explicar nesse read.me. 
 
-## O que é o TwoHg Petshop? :dog: :syringe:
+## O que é o TwoHg Petshop? :syringe:
 
 ##### **O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.** 
 
