@@ -40,13 +40,13 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 **Nosso projeto possui:**  
 
-##### - Cruds para os clientes e administradores do petshop, pets e agendamentos de consultas. 
+##### - Cruds para os clientes e administradores do petshop, pets e agendamentos de consultas. :hammer_and_wrench:
 
-##### - Sistema de login para proteção e autenticidade dos usuários 
+##### - Sistema de login para proteção e autenticidade dos usuários :lock: 
 
-##### - Páginas inteiramente feitas e estilizadas do zero 
+##### - Páginas inteiramente feitas e estilizadas do zero :bulb:
 
-##### - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (funcionários, clientes, pets e consultas) 
+##### - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (funcionários, clientes, pets e consultas) :lock: :hammer_and_wrench:
 
 
 
