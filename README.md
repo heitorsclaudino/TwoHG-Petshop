@@ -32,7 +32,7 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 ### **Você sabe o que é um CRUD?** :dog:
 
-##### Caso não, talvez seja interessante você dar uma olhada nesse [link](https://coodesh.com/blog/dicionario/o-que-e-crud/) antes de prosseguir, é um termo técnico e bem fácil de entender, mas infelizmente não temos como explicar nesse read.me. 
+ Caso não, talvez seja interessante você dar uma olhada nesse [link](https://coodesh.com/blog/dicionario/o-que-e-crud/) antes de prosseguir, é um termo técnico e bem fácil de entender, mas infelizmente não temos como explicar nesse read.me. 
 
 ## O que é o TwoHg Petshop? :syringe:
 
