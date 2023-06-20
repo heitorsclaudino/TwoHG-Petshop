@@ -24,13 +24,13 @@
 
 ***MySQL*** - foi o banco de dados escolhido
 
-#### Estrutura do projeto:
+### Estrutura do projeto:
 
 As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 **Nota** - A pasta HTMl tem seus arquivos em PHP, pois há recursos necessários da linguagem de programação em todas as páginas, mas o código principal se encontra em HTML. 
 
-### **Você sabe o que é um CRUD?** :dog:
+#### **Você sabe o que é um CRUD?** :dog:
 
  Caso não, talvez seja interessante você dar uma olhada nesse [link](https://coodesh.com/blog/dicionario/o-que-e-crud/) antes de prosseguir, é um termo técnico e bem fácil de entender, mas infelizmente não temos como explicar nesse read.me. 
 
@@ -41,13 +41,13 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 **Nosso projeto possui:**  
 
-##### - Cruds para os clientes e administradores do petshop, pets e agendamentos de consultas. :hammer_and_wrench:
+- Cruds para os clientes e administradores do petshop, pets e agendamentos de consultas. :hammer_and_wrench:
 
-##### - Sistema de login para proteção e autenticidade dos usuários :lock: 
+- Sistema de login para proteção e autenticidade dos usuários :lock: 
 
-##### - Páginas inteiramente feitas e estilizadas do zero :bulb:
+- Páginas inteiramente feitas e estilizadas do zero :bulb:
 
-##### - Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (clientes, pets e consultas) :lock: :hammer_and_wrench:
+- Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (clientes, pets e consultas) :lock: :hammer_and_wrench:
 
 
 
