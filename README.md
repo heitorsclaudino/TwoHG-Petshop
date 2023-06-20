@@ -39,7 +39,7 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
  O TwoHg Petshop é um site desenvolvido para uma empresa fictícia de petshop. Criamos ele com o intuito de treinar nossos conhecimentos em linguagens como o PHP e desenvolvemos alguns CRUDs utilizando banco de dados MySQL.
 
 
-**Nosso projeto possui:**  
+#### Nosso projeto possui:  
 
 - **Cruds para os clientes e administradores do petshop, pets e agendamentos de consultas.** :hammer_and_wrench:
 
@@ -49,11 +49,8 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 - **Uma área exclusiva para administradores, onde quem tem acesso pode realizar as operações de CRUD para todas as outras entidades do projeto (clientes, pets e consultas)** :lock: :hammer_and_wrench:
 
-
-
-
-
- **As entidades e suas funcionalidades**
+  
+ #### As entidades e suas funcionalidades
 
  :monkey: :banana: ***Os clientes*** podem são as pessoas que tem livre acesso a home do nosso site. Ao se cadastrarem, geram um login próprio que garantirá a segurança e autenticidade dos seus dados, agora salvos em banco de dados remoto. Com o login efetuado, esses usuários poderão acessar outras partes da aplicação como o Perfil, onde seus dados e pets ficam à mostra e estão passíveis de edição. Também podem agendar consultas com os profissionais em datas/horários disponíveis.
 
