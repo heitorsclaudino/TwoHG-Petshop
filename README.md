@@ -62,7 +62,7 @@ As pastas *css, html, js e php* agrupam cada linguagem em sua pasta específica.
 
 ## Conclusão
 
-O desenvolvimento desse projeto foi muito importante para nossa equipe, pois foi o primeiro projeto mais complexo que tivemos que desenvolver. Nosso leque de possibilidades e aprendizado só se expandiu desde então e temos que agradecer muito as experiências adquiridas nesse projeto. Trabalhar com CRUDs e linguagens como o PHP foi um grande passo para nossa construção enquanto profissionais de desenvolvimento web.
+O desenvolvimento desse projeto foi muito importante para nossa equipe, pois foi o primeiro projeto mais complexo que tivemos que desenvolver. Nosso leque de possibilidades e aprendizado só se expandiu desde então e temos que agradecer muito as experiências adquiridas nesse projeto. Trabalhar com CRUDs e com linguagens como o PHP foi um grande passo para nossa construção enquanto profissionais de desenvolvimento web.
 
 
 #### Agradecemos pelo interesse no nosso projeto, obrigado você que chegou até aqui! :fish: :snail:
