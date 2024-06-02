@@ -1,7 +1,5 @@
 # TwoHG Petshop :stethoscope: :hearts:
 
-[Acesse nosso site aqui](http://twohgpetshop.000.pe/index.php)
-
 ### Membros 
 
 #### Um projeto desenvolvido por:
